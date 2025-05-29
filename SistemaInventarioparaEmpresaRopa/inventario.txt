@@ -1,0 +1,10 @@
+0;Camiseta básica;10;15;8;20;12
+1;Pantalón vaquero;6;18;12;10;14
+2;Sudadera capucha;20;10;16;6;8
+3;Camisa manga larga;12;7;18;9;15
+4;Falda plisada;14;9;20;5;11
+5;Chaqueta vaquera;8;6;10;18;13
+6;Jersey cuello alto;16;11;14;20;7
+7;Pantalones deportivos;10;13;17;8;6
+8;Camiseta estampada;4;14;9;15;20
+9;Abrigo largo;18;3;7;16;12
