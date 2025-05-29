@@ -1,0 +1,4 @@
+1;12-01-2025;T;Apto;Papel
+1;14-01-2025;E;Apto;Programacion;10
+2;12-01-2025;T;No pto;Papel
+2;14-01-2025;E;Apto;Programacion;10

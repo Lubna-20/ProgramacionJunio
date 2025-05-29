@@ -1,0 +1,8 @@
+nombre,apellido,cargo,modalidad,horas,pago_hora
+Juan,Pérez,operario,tiempo_completo,160,10
+Ana,Gómez,jefe,medio_tiempo,80,22
+Luis,Ramírez,operario,tiempo_completo,170,10
+Marta,Suárez,jefe,medio_tiempo,100,22
+Pedro,López,operario,medio_tiempo,90,10
+Luis,Ramos,Gerente,tiempo_completo,100,20
+Luisa,Pérez,Administrativo,tiempo_completo,120,10
